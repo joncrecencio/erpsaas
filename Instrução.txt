@@ -1,0 +1,10 @@
+Vídeo instalação
+https://www.youtube.com/watch?v=8DLbtZPWIHQ
+
+Versão do PHP 8.1 Ver os videos para fazer a configuração inicial da aplicação
+
+PRIMEIRO ACESSO LOGIN: slym SENHA: 123
+
+ASSISTA OS VIDEOS PARA INSTALAR E CONFIGURAR O SISTEMA
+
+comando para executar o servidor: php artisan serve
